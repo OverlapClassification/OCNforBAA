@@ -1,4 +1,4 @@
-# Overlap Classification Network for Skeletal Bone Age Assessment.
+## Overlap Classification Network for Skeletal Bone Age Assessment.
 
 This work not designed a new network architecture, but proposaled a new classification method. The most important contribution of this work is a label pre-processing concept and a new loss function for BAA. This work also has implications for solving other classification or regression problems.
 
